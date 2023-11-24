@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+인스타그램(https://www.instagram.com/) 사이트의 메인 화면을 클론 코딩 해봤습니다.
+수요일까지 박영웅 강사님이 설명해 주셨던 github 사이트를 연습해보고 수요일 저녁부터 시작해 완성을 못했습니다.
+크게 세부분으로 나눠 왼쪽부터 menu, main, side로 나눴고 그 안에서 추가적으로 나눠봤습니다.
